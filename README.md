@@ -31,7 +31,7 @@
 - Always `learning new things` and refining my skills to stay up-to-date with the latest trends in web development.
 - Feel free to reach out with any questions or to collaborate on exciting projects!
 - I’m currently open for a new `job opportunity`.
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/caleb-trevizo-a151831a3/).
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/caleb-trevizo-a151831a3/). [Web Site](https://calebtrevizo.com/).
 <br>
 
 
